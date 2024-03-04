@@ -1,0 +1,3 @@
+/home/hkhpysddd/faceswap/build/CMakeFiles/faceswap.dir
+/home/hkhpysddd/faceswap/build/CMakeFiles/edit_cache.dir
+/home/hkhpysddd/faceswap/build/CMakeFiles/rebuild_cache.dir
